@@ -1,0 +1,2 @@
+git init  # Initialize the repositories
+git add . # Add every file from project to repository
