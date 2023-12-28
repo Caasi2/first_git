@@ -1,2 +1,4 @@
-git init  # Initialize the repositories
-git add . # Add every file from project to repository
+git init   			# Initialize the repositories
+git add .  			# Add every file from project to repository (staging area)
+git status 			# Get the status of the repository
+git commit -m "Describe the change" 	# Save the changes to memory and describe the change
