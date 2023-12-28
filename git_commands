@@ -14,4 +14,4 @@ git branch		# By default all the code is on the master branch
 
 git remote add origin https://github.com/ 	# Added the origin 
 git push -u origin master 	# pushing to the website 
-
+git pull origin master # Pulling changes from the website
