@@ -4,3 +4,14 @@ git status 			# Get the status of the repository
 git commit -m "Describe the change" 	# Save the changes to memory and describe the change
 git log 				# Log of all saved changes
 git checkout e3c79149da27a51b3510561d7c0d48c24965662d # Go back to any previous saves state, example_hash_from_the_log
+
+
+=====================================================================================================================
+																						SENDING TO THE WEBSIT
+=====================================================================================================================
+git checkout -b new_branch # Create new Branch
+git branch		# By default all the code is on the master branch
+
+git remote add origin https://github.com/ 	# Added the origin 
+git push -u origin master 	# pushing to the website 
+
